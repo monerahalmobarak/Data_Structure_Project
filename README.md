@@ -1,3 +1,5 @@
+# Data Structure Project
+
 Overview
 This project implements various data structure operations, focusing on merging data from two structures of the same type. It provides solutions for arrays, singly linked lists, stacks, queues, and binary trees. Users can interactively select the type of data structure they wish to merge.
 
